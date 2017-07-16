@@ -1,0 +1,31 @@
+#footer {
+    color: red
+}
+p
+{
+    text-align: center
+}   
+img{
+    margin: auto
+}
+div{
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+table
+{
+    margin-left: inherit;
+    margin-right: inherit;
+    border-spacing: 20px;
+}
+ul
+{
+    text-align: left;
+    display: inline-block;
+}
+.list
+{
+    font-size: 20px;
+}

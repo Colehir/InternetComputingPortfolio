@@ -1,0 +1,53 @@
+
+input.delete
+{
+    width: 5%;
+}
+input.edit
+{
+    width: 10%;
+    margin-left: 5%;
+}
+input.save
+{
+    width: 10%;
+    margin-left: 5%;
+}
+div#list
+{
+    text-align: left;
+    width: 100%;
+    align-self: auto;
+    margin: auto;
+}
+
+span
+{
+    display:inline-block;
+    width:55%;
+    word-wrap:break-word;
+    text-decoration: inherit;
+    margin-left: 12%
+    
+}
+.editVal
+{
+    display:inline-block;
+    width:55%;
+    word-wrap:break-word;
+    text-decoration: inherit;
+    margin-left: 12%
+    
+}
+#text
+{
+    width: 80%
+}
+#add
+{
+    width: 10%
+}
+.checked
+{
+    text-decoration: line-through;
+}
